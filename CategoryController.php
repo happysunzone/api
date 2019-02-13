@@ -1,11 +1,5 @@
 <?php
-/**
- * FecShop file.
- *
- * @link http://www.fecshop.com/
- * @copyright Copyright (c) 2016 FecShop Software LLC
- * @license http://www.fecshop.com/license/
- */
+
 namespace fecshop\app\appapi\modules\V1\controllers;
 
 use fecshop\app\appapi\modules\AppapiTokenController;
